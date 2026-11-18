@@ -21,7 +21,13 @@ import sys
 import os
 
 # Arquivos permitidos dentro de uma pasta de assignment
-ALLOWED_FILENAMES = {"README.md", "starter-code.py", "data.csv"}
+ALLOWED_FILENAMES = {
+    "README.md",
+    "starter-code.py",
+    "data.csv",
+    "app.py",
+    "test_api.py",
+}
 
 # Prefixo que identifica pastas de assignments
 ASSIGNMENTS_PREFIX = "assignments/"

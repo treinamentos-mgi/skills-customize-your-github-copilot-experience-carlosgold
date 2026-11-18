@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-apis-pytest",
+      "title": "Testing APIs with pytest",
+      "description": "Practice testing FastAPI endpoints with pytest, TestClient, and HTTP status assertions",
+      "path": "assignments/testing-apis-pytest",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "API Under Test",
+          "file": "app.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Examples",
+          "file": "test_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
